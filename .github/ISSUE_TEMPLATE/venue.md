@@ -13,18 +13,19 @@ to be of interest to the public. -->
 
 ## Context
 
-<!-- Explain what brought you to propose this venue, what is the relation with the venue 
+<!-- Explain what brought you to propose this venue, what is the relation with the venue
 and why do you think it's a great fit for NixCon. -->
 
 ## Statistics
 
-<!-- Those are useful for us to perform our decisionmaking. Please fill them to the best
+<!-- Those are useful for us to perform our decision making. Please fill them to the best
 of your knowledge. If something is unclear or unknown at this point, don't let this prevent you
 from filling the issue and write it as unknown yet or provide ballparks estimates. -->
 
 - Total capacity:
 - Capacity in the main track room:
-- Hacking day capacity: 
+- A/V equipment in the track room, e.g. Projector:
+- Hacking day capacity:
 - Number of tracks possible:
 - Hallway track possible?
 - Mini-conference (BoFs) tracks possible?
@@ -34,8 +35,8 @@ from filling the issue and write it as unknown yet or provide ballparks estimate
 
 ## Local team
 
-<!-- 
-  Do you have a local team? Can you present them to us in this issue?
+<!--
+  Do you have a local team? Can you present them to us in this issue
   If you don't have a local team, please make it clear that you are looking
   to assemble a local team.
   Note that, in the current state of our organization, local teams
@@ -46,6 +47,6 @@ from filling the issue and write it as unknown yet or provide ballparks estimate
 
 ## Pictures
 
-<!-- Post a lot of cool pictures of your venue to make people thrilled about it. 
+<!-- Post a lot of cool pictures of your venue to make people thrilled about it.
      Suggestions includes: the main track room, the potential hacking day, etc.
 -->
