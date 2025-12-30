@@ -3,7 +3,7 @@ name: Venue proposal
 about: You want to see NixCon in a venue you know about and you would like to propose? Awesome, use this!
 title: "NixCon [EDITION] venue proposal: [CITY], [COUNTRY]"
 labels: venue proposal
-assignees: raitobezarius, hexchen, "0x4A6F", janik-haag
+assignees:
 ---
 
 # Venue proposal
